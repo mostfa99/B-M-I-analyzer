@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">B M I  analyzer</string>
+    <string name="name"> Name</string>
+    <string name="username"> Username</string>
+    <string name="password"> Password</string>
+    <string name="repassword"> Re-password</string>
+    <string name="email"> e-Mail</string>
+    <string name="WELCOME"> happy to Back</string>
+    <string name="LOGIN">log in </string>
+    <string name="signup"> Register</string>
+    <string name="note1">  have account? log in</string>
+    <string name="note2">new account ?</string>
+    <string name="note3">haven't account.</string>
+    <string name="creatnew">New Account</string>
+    <string name="creat">create</string>
+    <string name="note4">You Have An Account?</string>
+    <string name="completeinfo">Complete</string>
+    <string name="gender">type </string>
+    <string name="weight">Weight</string>
+    <string name="length">hight</string>
+    <string name="dateOfBirth">DOB</string>
+    <string name="saveData">Save </string>
+    <string name="kg">KG</string>
+    <string name="cm">CM</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="newRecord">New Record</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+
+
+    <string-array name="catagory">
+
+        <item>Fish</item>
+        <item>Fruit</item>
+        <item>Carbohydrates</item>
+        <item>roteins</item>
+
+    </string-array>
+</resources>
